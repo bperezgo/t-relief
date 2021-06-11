@@ -6,10 +6,14 @@ Next we will show the repos of the back, front and model of machine learning.
 
 ## Backend
 
-backend developed with nodejs
+Backend developed with nodejs
 
 `https://github.com/svelasquezc/trelief-backend/`
 
 ## Frontend
+
+Frontend developed with react native
+
+`https://github.com/bperezgo/t-relief-front`
 
 ## Model
