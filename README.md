@@ -17,3 +17,4 @@ Frontend developed with react native
 `https://github.com/bperezgo/t-relief-front`
 
 ## Model
+`https://github.com/japasosr/t-relief-ml`
