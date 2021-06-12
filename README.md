@@ -19,4 +19,5 @@ Frontend developed with react native
 ## Model
 
 Analytics developed with scikit.learn
+
 `https://github.com/japasosr/t-relief-ml`
